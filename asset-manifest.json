@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/eight-of-march/static/css/main.b299ac84.css",
+    "main.js": "/eight-of-march/static/js/main.595484d4.js",
+    "static/media/flower2.png": "/eight-of-march/static/media/flower2.9c680912f2053b07de27.png",
+    "static/media/flower1.png": "/eight-of-march/static/media/flower1.3f7fabbde927b398c519.png",
+    "static/media/red-roses.png": "/eight-of-march/static/media/red-roses.d0c136230c726e091085.png",
+    "index.html": "/eight-of-march/index.html",
+    "main.b299ac84.css.map": "/eight-of-march/static/css/main.b299ac84.css.map",
+    "main.595484d4.js.map": "/eight-of-march/static/js/main.595484d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b299ac84.css",
+    "static/js/main.595484d4.js"
+  ]
+}
